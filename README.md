@@ -1,1 +1,2 @@
-# пHello everybody, except russians)
+# Hello everybody, except russians)
+## So, a little bit information 
